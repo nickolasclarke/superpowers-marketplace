@@ -10,6 +10,16 @@
   },
   "plugins": [
     {
+      "name": "superpowers-nclarke",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/nickolasclarke/superpowers.git"
+      },
+      "description": "Nick's personal Fork of Superpowers",
+      "version": "4.2.0",
+      "strict": true
+    },
+    {
       "name": "superpowers",
       "source": {
         "source": "url",
